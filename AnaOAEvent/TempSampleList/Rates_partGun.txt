@@ -1,0 +1,1 @@
+/lustre/user/gmwong/basic_studies-master-CyDetWrongSign/CyDetWrongSign/SimG4CyDet/PartGunElecFromDisk/workdir_electron/oa_g4_em_00000000-0000_xjjlxiaecjkh_SG4BH_000.root
