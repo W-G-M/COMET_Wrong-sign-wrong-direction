@@ -1,4 +1,3 @@
-IVAnalyzer class as basis.}, captionpos=t, label={AnalyzerR}]
 #include "ICTHGeom.hxx"
 #include "IG4Trajectory.hxx"
 #include "IHandle.hxx"
